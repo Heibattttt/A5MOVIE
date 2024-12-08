@@ -11,4 +11,4 @@ Serena Simonetti\
 git: Serena-Simonetti
 
 Zaineb Alojayyan\
-ZainebAlojayyan
+git: ZainebAlojayyan
