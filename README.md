@@ -4,8 +4,11 @@ Group memebers:\
 Francesco de Martino\
 git: deMartino1908303
 
-Mohammadreza heibati
+Mohammadreza heibati\
 git: Heibattttt
 
-Serena Simonetti
+Serena Simonetti\
 git: Serena-Simonetti
+
+Zaineb Alojayyan\
+ZainebAlojayyan
